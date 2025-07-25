@@ -50,6 +50,7 @@ Data Cleaning Techniques
 
 📁 Files Included
 📊 Hospital_Emergency_dashboard file.xlsx – Raw data + dashboard
+<img src="https://github.com/Vikash3632/Hospital-Emergency-Room-Analysis/blob/main/Hospital%20Dashboard%20Final%20.jpg"
 
 🖼️ Hospital Dashboard Final.jpg – Snapshot of the final Excel dashboard
 
